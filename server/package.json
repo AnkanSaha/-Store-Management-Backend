@@ -39,7 +39,7 @@
     "express": "^4.19.2",
     "express-rate-limit": "^7.1.5",
     "jsonwebtoken": "^9.0.1",
-    "mongoland": "^4.2.2",
+    "mongoland": "^4.4.1",
     "mongoose": "^7.5.0",
     "outers": "^8.3.2",
     "tslint": "^6.1.3"
