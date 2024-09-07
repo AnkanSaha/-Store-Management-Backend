@@ -11,7 +11,7 @@
     "test": "npm run build"
   },
   "dependencies": {
-    "moment": "^2.29.4",
+    "moment": "^2.30.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-jwt": "^1.2.0",
