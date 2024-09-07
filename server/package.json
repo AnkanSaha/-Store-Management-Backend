@@ -40,7 +40,7 @@
     "express-rate-limit": "^7.1.5",
     "jsonwebtoken": "^9.0.1",
     "mongoland": "^4.2.2",
-    "mongoose": "^7.5.0",
+    "mongoose": "^7.6.10",
     "outers": "^8.3.2",
     "tslint": "^6.1.3"
   },
